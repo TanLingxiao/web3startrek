@@ -8,9 +8,8 @@
 * Telegram ID: LyndonTan
 * Starcoin 账号地址: 0x5cd13f44502b7c2f482412a5d1baf659
 
-
-Long time internet and cloud developer, started to blockchain and Web3 area in 2017.
-Program languages: Python, C++. 
+从事Web3相关行业，对Sui和Move有兴趣，正在自学Rust
+Program languages: Python, C++.
 Interested in blockchain system development and smart contract programming.
 
 Participated in open source projects:
