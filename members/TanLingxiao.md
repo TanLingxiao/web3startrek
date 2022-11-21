@@ -17,8 +17,8 @@ Participated in open source projects:
 
 ### Learning log
 
-> You can write it here or give an external public link
-> 可以写在这里或者给个外部公开链接
+1. 开始学习move文档(https://move-language.github.io/move/)
+
 
 ### Learning outcomes
 
